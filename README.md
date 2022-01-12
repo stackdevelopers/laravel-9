@@ -1,6 +1,8 @@
 # laravel-9
 <strong>Laravel 9 Release Date / Laravel 9 New Features / Which Website to create in Laravel 9?</strong>
 
+Watch for Laravel 9 Updates :- https://www.youtube.com/watch?v=bT25AowPjBM
+
 Laravel 9 Release Date is <strong>January 25th, 2022</strong>
 
 Laravel 9 will be the next LTS version of Laravel, and it is expected to release at the end of Jan 2022
